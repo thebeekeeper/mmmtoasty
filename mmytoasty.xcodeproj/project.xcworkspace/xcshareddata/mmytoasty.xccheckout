@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>652824AD-642A-4242-8710-D59B2AE4AD13</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mmytoasty</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>100C7A7F2CD2E3BF0D93A1E2DC32686188BA5FF9</key>
+		<string>https://github.com/jh69/mmmtoasty.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/mmytoasty/mmytoasty.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>100C7A7F2CD2E3BF0D93A1E2DC32686188BA5FF9</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jh69/mmmtoasty.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>100C7A7F2CD2E3BF0D93A1E2DC32686188BA5FF9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>100C7A7F2CD2E3BF0D93A1E2DC32686188BA5FF9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mmmtoasty</string>
+		</dict>
+	</array>
+</dict>
+</plist>
